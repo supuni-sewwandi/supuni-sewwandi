@@ -1,58 +1,93 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:081F62,50:193B70,100:7CA6C9&height=230&section=header&text=SUPUNI%20SEWWANDI&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=INFORMATION%20SYSTEMS%20ENGINEERING%20%7C%20ASPIRING%20BUSINESS%20ANALYST&descSize=13&descAlignY=59" />
+# 👋 Hi, I'm Supuni Sewwandi
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=21&pause=1200&color=193B70&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Business+Analysis+%26+Systems+Analysis;Requirements+Engineering;Turning+ideas+into+solutions." />
+### Information Systems Engineering Undergraduate
+### Aspiring Business Analyst
 
-<br/>
+<p>
+  <a href="https://linkedin.com/in/supuni-sewwandi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/supuni-sewwandi">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:supunisewwandi282@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-374151?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/supuni-sewwandi/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/supuni-sewwandi?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-PROJECTS-142D4E?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=supuni-sewwandi&label=PROFILE%20VIEWS&color=334155&style=for-the-badge"/>
 
 </div>
 
-<br/>
+---
+
+## 👩‍💼 About Me
+
+> **Information Systems Engineering undergraduate at SLIIT** with a strong interest in **Business Analysis, Systems Analysis, Requirements Engineering, Data & Business Intelligence, and Digital Transformation.**
+
+I enjoy analysing business problems, understanding stakeholder needs, modelling business processes, documenting requirements, and translating business needs into practical technology solutions.
+
+Currently building my professional portfolio through **academic and personal information systems projects**.
+
+---
+
+## 🎯 Professional Focus
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%">
 
-## ✨ About Me
+### 🔍 Business Analysis
 
-Hi! I'm **Supuni Sewwandi**, an Information Systems Engineering undergraduate at **SLIIT, Sri Lanka**.
-
-I'm passionate about understanding business problems, analysing processes and exploring technology-driven solutions.
-
-- 🎯 Aspiring Business Analyst
-- 📋 Requirements Engineering
-- 🔎 Systems Analysis & Solution Design
-- 🔄 Business Process Modelling
-- 📊 Data Analytics & Business Intelligence
-
-</td>
-<td width="45%" valign="top">
-
-## 🎓 Education
-
-**BSc (Hons) in Information Technology**
-
-Specialization: Information Systems Engineering
-
-Sri Lanka Institute of Information Technology (SLIIT)
-
-<br/>
-
-## 🌱 Currently Learning
-
-- SQL & Power BI
-- Agile Project Management
 - Requirements Engineering
-- Business Process Improvement
+- Stakeholder Analysis
+- Business Process Analysis
+- Functional Requirements
+- User Stories
+- Use Cases
+
+</td>
+
+<td width="50%">
+
+### 🖥️ Systems Analysis
+
+- System Analysis
+- System Design
+- Process Modelling
+- Database Design
+- Solution Analysis
+- Digital Transformation
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📊 Data & BI
+
+- SQL
+- Power BI
+- DAX
+- Power Query
+- Excel
+- Data Visualization
+
+</td>
+
+<td>
+
+### 📋 Project Management
+
+- Agile / Scrum
+- Jira
+- Confluence
+- MS Project
+- WBS
+- Project Planning
 
 </td>
 </tr>
@@ -60,126 +95,92 @@ Sri Lanka Institute of Information Technology (SLIIT)
 
 ---
 
+## 📑 Business Analysis Documentation
+
 <div align="center">
 
-## 🛠️ My Skills & Toolkit
+<img src="https://img.shields.io/badge/BRD-Business%20Requirements-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SRS-System%20Requirements-172554?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FRD-Functional%20Requirements-1E293B?style=for-the-badge"/>
 
-**Business Analysis**
+<br><br>
 
-<img src="https://img.shields.io/badge/BRD-142D4E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SRS-193B70?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FRD-535F80?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Stakeholder_Analysis-142D4E?style=for-the-badge" />
-
-**Programming & Databases**
-
-<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,python,git,github&perline=8" />
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/MS_Project-217346?style=flat-square&logo=microsoftproject&logoColor=white" />
+<img src="https://img.shields.io/badge/Stakeholder%20Analysis-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Process%20Modelling-0F3D56?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/User%20Stories-172554?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Use%20Cases-1E293B?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ☕ Smart Cafe Management System
-
-A business-focused system concept for improving cafe operations.
-
-**Key areas**
-- Digital ordering and reservations
-- Inventory and billing
-- Business requirements
-- As-Is / To-Be process modelling
-
-<a href="https://github.com/supuni-sewwandi/smart-cafe-management-system">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-142D4E?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Bookshop Management System
-
-An academic group project focused on business workflows and information system development.
-
-**Key areas**
-- Systems analysis
-- Workflow understanding
-- Team collaboration
-- Software development
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Video Game Sales Analysis
-
-Exploring video game sales data to discover trends and patterns.
-
-**Key areas**
-- Python and Pandas
-- Exploratory data analysis
-- Data visualization
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 More Projects
-
-Explore my other repositories covering information systems, software development and data-related work.
-
-<a href="https://github.com/supuni-sewwandi?tab=repositories">
-<img src="https://img.shields.io/badge/ALL_REPOSITORIES-193B70?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
+## ☕ Featured Project
 
 <div align="center">
 
-## 📈 GitHub Dashboard
+### Smart Cafe Management System
+<h1 align="center">Hi 👋, I'm Supuni Sewwandi</h1>
+<h3 align="center">Information Systems Engineering Undergraduate | Aspiring Business Analyst</h3>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=supuni-sewwandi&show_icons=true&hide_border=true&bg_color=F3F7FC&title_color=142D4E&icon_color=527BA8&text_color=193B70" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=supuni-sewwandi&label=Profile%20views&color=0e75b6&style=flat" alt="supuni-sewwandi" /> </p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supuni-sewwandi&layout=compact&hide_border=true&bg_color=F3F7FC&title_color=142D4E&text_color=193B70" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supuni-sewwandi" alt="supuni-sewwandi" /></a> </p>
 
-<br/>
+- 🔭 I’m currently working on **Business Analysis documentation and the Smart Cafe Management System**
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=supuni-sewwandi&theme=default&hide_border=true&ring=193B70&fire=527BA8&currStreakLabel=142D4E" />
+- 🌱 I’m currently learning **Business Analysis, SQL, Power BI, Agile Project Management**
+
+- 👯 I’m looking to collaborate on **Business Analysis, Information Systems, and Digital Transformation projects**
+
+- 🤝 I’m looking for help with **Industry best practices in Business Analysis and Systems Design**
+
+- 👨‍💻 All of my projects are available at [https://github.com/supuni-sewwandi](https://github.com/supuni-sewwandi)
+
+- 💬 Ask me about **Requirements Engineering, Business Process Modelling, Systems Analysis**
+
+- 📫 How to reach me **supunisewwandi282@gmail.com**
+
+- 📄 Know about my experiences [Business Analysis, Requirements Engineering, Systems Analysis, and Information Systems Projects](Business Analysis, Requirements Engineering, Systems Analysis, and Information Systems Projects)
+
+- ⚡ Fun fact **I love learning new things and turning ideas into reality. ✨**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/supuni-sewwandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supuni-sewwandi" height="30" width="40" /></a>
+<a href="https://fb.com/supuni.sewwandi.918069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supuni.sewwandi.918069" height="30" width="40" /></a>
+<a href="https://instagram.com/twinkly_shinny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="twinkly_shinny" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supuni-sewwandi&show_icons=true&locale=en&layout=compact" alt="supuni-sewwandi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supuni-sewwandi&show_icons=true&locale=en" alt="supuni-sewwandi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supuni-sewwandi&" alt="supuni-sewwandi" /></p>
+
+**Online Ordering • Table Reservation • Inventory • Billing • Reporting**
 
 </div>
 
----
+A business-focused information system designed to improve cafe operations by connecting key business activities through a centralized digital solution.
 
-<div align="center">
+### 🔎 My Contribution & Focus
 
-## 🤝 Let's Connect
-
-I'm always eager to learn, collaborate and build solutions that connect business needs with technology.
-
-<a href="https://www.linkedin.com/in/supuni-sewwandi/">
-<img src="https://img.shields.io/badge/LinkedIn-Supuni_Sewwandi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**“Turning business problems into technology-driven solutions.”** ✨
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:081F62,50:193B70,100:7CA6C9&height=120&section=footer" />
-
-</div>
+```text
+Business Problem
+       ↓
+Stakeholder Analysis
+       ↓
+Requirements Engineering
+       ↓
+As-Is Process Analysis
+       ↓
+To-Be Process Design
+       ↓
+System Requirements
+       ↓
+Agile Project Planning
+       ↓
+Data & Business Intelligence
